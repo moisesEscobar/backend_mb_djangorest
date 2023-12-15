@@ -7,7 +7,7 @@ Este repositorio contiene un proyecto  de Django Rest Framework.
 1. **Clona el Repositorio:**
     ```bash
     git clone https://github.com/moisesEscobar/backend_mb_djangorest.git
-    cd tu-proyecto
+    cd backend_mb_djangorest
     ```
 
 2. **Crea un Entorno Virtual (opcional, pero recomendado):**
